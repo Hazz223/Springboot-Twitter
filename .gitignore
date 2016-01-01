@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+/springboot-template.iml
+/build
+/gradle
+/.gradle
+/.idea
+/src/main/resources/twitter4j.properties
